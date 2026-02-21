@@ -238,4 +238,7 @@ def install_additional_tool(tool_name: str) -> bool:
         logger.error(f"Failed to install {tool_name}: {e}")
         return False
 
+
+  https://lobehub.com/zh-TW/mcp/marklechner-kali-mcp-server
+
   
